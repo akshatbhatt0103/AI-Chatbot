@@ -1,10 +1,6 @@
 # AI-Chatbot for Customer Service:
 Conversational chatbots have produced a lot of hype recently because of their role in enhancing customer experience. Modern businesses have started using the capabilities of chatbots in several different processes. Due to the wide acceptance of conversational AIs, the tedious task of filling out forms or sending information over the internet has become much more streamlined. One of the desired qualities of a conversational chatbot is that it should be able to respond to a user request in the current context. The players in a conversational chatbot system are the user and the bot respectively.
 
-#### Goal 
-- [x] To implement a Conversational AI Chatbots for Customer Service
-- [x] Understand the technical knowhows of such an application
-
 
 #### Dataset Link: (https://www.kaggle.com/thoughtvector/customer-support-on-twitter)
 
