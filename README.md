@@ -6,9 +6,7 @@ Conversational chatbots have produced a lot of hype recently because of their ro
 - [x] Understand the technical knowhows of such an application
 
 
-#### Dataset Link
-[Data] (https://www.kaggle.com/thoughtvector/customer-support-on-twitter)
-
+#### Dataset Link: (https://www.kaggle.com/thoughtvector/customer-support-on-twitter)
 
 #### Command to train the Chatbot Model
 
