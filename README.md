@@ -4,7 +4,7 @@ Conversational chatbots have produced a lot of hype recently because of their ro
 
 #### Dataset Link: (https://www.kaggle.com/thoughtvector/customer-support-on-twitter)
 
-#### Command to train the Chatbot Model
+#### Command to train the Chatbot Model:
 
 ```bash
 
@@ -12,7 +12,7 @@ python chatbot.py --max_vocab_size 50000 --max_seq_len 30 --embedding_dim 100 --
 
 ```
 
-#### Command to perform Inference on the Chatbot Model
+#### Command to perform Inference on the Chatbot Model:
 
 ```bash
 
